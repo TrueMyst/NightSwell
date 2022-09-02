@@ -1,0 +1,21 @@
+{
+  "name": "night-swell",
+  "displayName": "NightSwell",
+  "description": "A Comfortable and Elegant Night Theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightSwell",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightSwell-color-theme.json"
+      }
+    ]
+  }
+}
