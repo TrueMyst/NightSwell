@@ -15,7 +15,7 @@ Press `Ctrl K + T` in your keyboard, and you'll see a pop-up, select `NightSwell
 ## `2` Screenshots
 
 ### `-` HTML 
-![HTML Screenshot](./screenshots/HTML.PNG)
+![HTML Screenshot](./screenshots//HTML.png)
 
 ### `-` CSS
 ![CSS Screenshot](./screenshots/CSS.png)
