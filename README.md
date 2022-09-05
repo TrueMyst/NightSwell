@@ -15,16 +15,16 @@ Press `Ctrl K + T` in your keyboard, and you'll see a pop-up, select `NightSwell
 ## `2` Screenshots
 
 ### `-` HTML 
-![HTML Screenshot](./screenshots//HTML.png)
+![HTML Screenshot](./screenshots/HTML.PNG)
 
 ### `-` CSS
-![CSS Screenshot](./screenshots/CSS.png)
+![CSS Screenshot](./screenshots/CSS.PNG)
 
 ### `-` Python
-![PY Screenshot](./screenshots/PY.png)
+![PY Screenshot](./screenshots/PY.PNG)
 
 ### `-` Javascript
-![JS Screenshot](./screenshots/JS.png)
+![JS Screenshot](./screenshots/JS.PNG)
 
 ## `3` Author's Note
 Thanks for using the theme. If you have any suggestions, please contact me at Discord, `myst#1700`.
