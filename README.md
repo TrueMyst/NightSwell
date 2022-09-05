@@ -1,16 +1,32 @@
-# night-swell README
 
-## Working with Markdown
+# NightSwell `1.0.0`
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A Comfortable and Elegant Night Theme for Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## `1` Installation
+```
+ext install nightswell
+```
+ 
+To set the theme, first of all, 
 
-## For more information
+Press `Ctrl K + T` in your keyboard, and you'll see a pop-up, select `NightSwell` and voila~! You're good to go.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## `2` Screenshots
 
-**Enjoy!**
+### `-` HTML 
+![HTML Screenshot](./screenshots/HTML.PNG)
+
+### `-` CSS
+![CSS Screenshot](./screenshots/CSS.png)
+
+### `-` Python
+![PY Screenshot](./screenshots/PY.png)
+
+### `-` Javascript
+![JS Screenshot](./screenshots/JS.png)
+
+## `3` Author's Note
+Thanks for using the theme. If you have any suggestions, please contact me at Discord, `myst#1700`.
+
+Cheers! Have a great day~!
