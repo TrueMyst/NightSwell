@@ -1,6 +1,6 @@
 {
   "name": "night-swell",
-  "icon": "./icons/nightswell.png",
+  "icon": "icons/nightswell.png",
   "displayName": "NightSwell",
   "description": "A Comfortable and Elegant Night Theme for Visual Studio Code.",
   "version": "1.0.0",
