@@ -3,12 +3,11 @@
   "icon": "icons/nightswell.png",
   "displayName": "NightSwell",
   "description": "A Comfortable and Elegant Night Theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "TrueMyst",
   "repository": {
     "type": "git",
     "url": "https://github.com/TrueMyst/NightSwell"
-
   },
   "keywords": [
     "theme",
@@ -19,7 +18,6 @@
     "night swell",
     "night swill"
   ],
-  
   "engines": {
     "vscode": "^1.70.0"
   },
